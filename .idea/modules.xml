@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/olympics-data-analysis.iml" filepath="$PROJECT_DIR$/.idea/olympics-data-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/olympics-data-analysis-web-app-main.iml" filepath="$PROJECT_DIR$/.idea/olympics-data-analysis-web-app-main.iml" />
     </modules>
   </component>
 </project>
